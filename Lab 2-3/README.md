@@ -1,5 +1,5 @@
 # Requirements
-## Problema: Avem un labirint nxm, o poziție de start (xs,ys) și o poziție destinație (xd,yd). Găsiți un drum de la poziția de start până la cea destinație. Un pas poate fi făcut sus, jos, stânga sau dreapta doar dacă în acea direcție nu este o barieră sau nu ieșim din labirint. Este posibil ca labirintul să nu aibă drum între poziția de start și cea finală.
+## Avem un labirint nxm, o poziție de start (xs,ys) și o poziție destinație (xd,yd). Găsiți un drum de la poziția de start până la cea destinație. Un pas poate fi făcut sus, jos, stânga sau dreapta doar dacă în acea direcție nu este o barieră sau nu ieșim din labirint. Este posibil ca labirintul să nu aibă drum între poziția de start și cea finală.
 
 
 Etape de rezolvare:
