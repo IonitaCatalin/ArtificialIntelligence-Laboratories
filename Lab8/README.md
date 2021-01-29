@@ -1,6 +1,6 @@
 # Requirements
 
-## Construiți reprezentarea vectorial ̆a unui text (de minim 500 de cuvinte).
+## Construiți reprezentarea vectorială unui text (de minim 500 de cuvinte).
 
 ### 
 - (0.1p) citirea textului (din fișier)
