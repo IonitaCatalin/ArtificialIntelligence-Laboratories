@@ -1,7 +1,6 @@
 # Requirements
 
-## Obiectivul acestor laboratoare este implementarea unui joc simplu între om și calculator,
-folosind algoritmul minimax cu retezarea alfa-beta.
+## Obiectivul acestor laboratoare este implementarea unui joc simplu între om și calculator,folosind algoritmul minimax cu retezarea alfa-beta.
 
 ### 
 - căutarea minimax cu cel puțin două niveluri (două mutări pentru fiecare jucător)
