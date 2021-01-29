@@ -4,16 +4,16 @@
 
 Etape de rezolvare:
 
-- (0.2) Alegeți o reprezentare a unei stări a problemei. Reprezentarea trebuie să fie suficient de explicită pentru a conține toate informaţiile necesare pentru continuarea găsirii unei soluții dar trebuie să fie și suficient de formalizată pentru a fi ușor de prelucrat/memorat.
+-  Alegeți o reprezentare a unei stări a problemei. Reprezentarea trebuie să fie suficient de explicită pentru a conține toate informaţiile necesare pentru continuarea găsirii unei soluții dar trebuie să fie și suficient de formalizată pentru a fi ușor de prelucrat/memorat.
 
 
-- (0.2) Identificați stările speciale (inițială și finală) și implementați funcția de inițializare (primește ca parametrii instanța problemei, întoarce starea inițială) și funcția booleană care verifică dacă o stare primită ca parametru este finală.
+-  Identificați stările speciale (inițială și finală) și implementați funcția de inițializare (primește ca parametrii instanța problemei, întoarce starea inițială) și funcția booleană care verifică dacă o stare primită ca parametru este finală.
 
-- (0.2) Implementați tranzițiile ca o funcție care primește ca parametri o stare și parametrii tranziției și întoarce starea rezultată în urma aplicării tranziției. Validarea tranziției se face într-o funcție booleană separată, cu aceeași parametrii.
+-  Implementați tranzițiile ca o funcție care primește ca parametri o stare și parametrii tranziției și întoarce starea rezultată în urma aplicării tranziției. Validarea tranziției se face într-o funcție booleană separată, cu aceeași parametrii.
 
-- (0.2) Implementați strategia Backtracking.
+-  Implementați strategia Backtracking.
 
-- (0.2) Implementați strategia BFS.
+-  Implementați strategia BFS.
 
-- (0.2) Implementați strategia Hillclimbing.
-- (BONUS 0.2) Implementați Simulated Annealing cu o euristică admisibilă și consistentă.
+-  Implementați strategia Hillclimbing.
+-  Implementați Simulated Annealing cu o euristică admisibilă și consistentă.
